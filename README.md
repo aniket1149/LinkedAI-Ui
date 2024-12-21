@@ -1,3 +1,8 @@
+LinkedAi is my contribution in helping someone with their LinkedIn profile visiblity and search jobs based on their resume.
+For a complete product demo please view it here: https://drive.google.com/file/d/1ODytix60WzlEp3OkiLTzKx8PycrIRubf/view?usp=drivesdk
+
+Pre-requisite: LinkedAi(https://github.com/aniket1149/LinkedAi) backend setup completed.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
